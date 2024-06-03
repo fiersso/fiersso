@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm a programmer who mainly does web development and a bit of game development.
+### I'm a programmer who mainly does web development and a bit of game development :)
 ### I've used languages such as:
 * JavaScript and TypeScript (favorite)
 * Python
