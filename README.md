@@ -1,10 +1,11 @@
-## Hi there 👋
-### I'm a programmer who mainly does web development and a bit of game development :)
+## Hi :)
+<!--### I'm a programmer who mainly does web development and a bit of game development :)
 ### I've used languages such as:
 * JavaScript and TypeScript (favorite)
 * Python
 * GdScript
 * Java
+-->
 <!--
 **fiersso/fiersso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
